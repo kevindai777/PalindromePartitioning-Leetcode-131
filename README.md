@@ -3,6 +3,6 @@
 Leetcode Question 131 (Medium)
 
 Techniques Used in Question:
-Backtracking
+Backtracking, Two-Pointers
 
 [Link to Question](https://leetcode.com/problems/palindrome-partitioning/)
